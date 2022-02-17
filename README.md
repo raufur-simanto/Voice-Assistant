@@ -1,7 +1,7 @@
-### Voice Assistant
+# Voice Assistant
 ## Using python, pyttsx3, speech recognition
-# It is a desktop voice assistant which takes voice command and performs task according to it.
-# Features:
+### It is a desktop voice assistant which takes voice command and performs task according to it.
+### Features:
 1. search in wikipedia
 2. open google, youtube, facebook, stackoverflow 
 3. play music
